@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # featured-filter
 
 Test case for filtering not needed updates
